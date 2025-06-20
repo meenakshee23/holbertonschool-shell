@@ -1,5 +1,3 @@
 #!/bin/bash
-2
-mv [Upper]* /tmp/u 2>/dev/null
-
+mv [A-Z]* /tmp/u
 
