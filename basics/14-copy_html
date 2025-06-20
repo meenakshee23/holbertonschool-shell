@@ -1,2 +1,2 @@
 #!/bin/bash
- mkdir /tmp/test_html
+ln -s /bin/ls __ls__
