@@ -1,3 +1,3 @@
 #!/bin/bash
-mv [A-Z]* /tmp/u2>/dev/null
+mv [A-Z]*/tmp/u2>/dev/null
 
